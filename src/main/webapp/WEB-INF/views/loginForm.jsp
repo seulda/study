@@ -14,7 +14,7 @@
 </head>
 
 <body>
-	<p>git bash branch test <br></p>
+	<p>branch name : testBranch  /  add content <br></p>
     <div class="container">
         <main class="loginMain">
         <!--로그인섹션-->
