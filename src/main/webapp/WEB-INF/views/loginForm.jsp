@@ -14,8 +14,7 @@
 </head>
 
 <body>
-	<br><p>branch test 성공하게해주세요</p><br>
-	<br><p>branch test for bash</p><br>
+	<p>git bash branch test <br></p>
     <div class="container">
         <main class="loginMain">
         <!--로그인섹션-->
