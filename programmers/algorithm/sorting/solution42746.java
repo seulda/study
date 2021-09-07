@@ -9,6 +9,9 @@
 // - numbers의 원소는 0 이상 1,000 이하입니다.
 // - 정답이 너무 클 수 있으니 문자열로 바꾸어 return 합니다.
 
+// 고쳐야하는 부분
+// ex) input 40, 403    output 예상 40403    실제 output 40340
+
 import java.util.*;
 
 class Solution {
